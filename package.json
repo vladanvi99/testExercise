@@ -1,0 +1,23 @@
+{
+  "name": "testexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladanvi99/testExercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladanvi99/testExercise/issues"
+  },
+  "homepage": "https://github.com/vladanvi99/testExercise#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
